@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anton Kosenko - Personal Page</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .contact-info {
+            margin: 20px 0;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Anton Kosenko</h1>
+        <div class="info">
+            <p>Age: <span id="age"></span> years</p>
+        </div>
+        <div class="contact-info">
+            <h2>Contacts</h2>
+            <p>
+                <a href="https://www.linkedin.com/in/anton-kosenko-8821bb181/" target="_blank">
+                    LinkedIn profile
+                </a>
+            </p>
+            <p>
+                <a href="path/to/your/cv.pdf" target="_blank">Download CV</a>
+            </p>
+        </div>
+    </div>
+
+    <script>
+        function calculateAge(birthDate) {
+            const birth = new Date(birthDate);
+            const today = new Date();
+            let age = today.getFullYear() - birth.getFullYear();
+            const monthDiff = today.getMonth() - birth.getMonth();
+            
+            if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birth.getDate())) {
+                age--;
+            }
+            return age;
+        }
+
+        const birthDate = '1997-04-19';
+        document.getElementById('age').textContent = calculateAge(birthDate);
+    </script>
+</body>
+</html>
