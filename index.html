@@ -126,7 +126,7 @@
         <div class="resume-section">
             <h2>Resume</h2>
             <p>
-                <a href="files/cv.pdf" target="_blank">Download CV</a>
+                <a href="files/cv.pdf?v=" id="resume-link" target="_blank">Download CV</a>
             </p>
         </div>
         <div class="source-link" style="text-align: center; margin-top: 30px; font-size: 0.8em; color: #95a5a6;">
@@ -151,6 +151,9 @@
 
         const birthDate = '1997-04-19';
         document.getElementById('age').textContent = calculateAge(birthDate);
+
+        // Add timestamp to prevent PDF caching
+        document.getElementById('resume-link').href += Date.now();
     </script>
 </body>
 </html>
