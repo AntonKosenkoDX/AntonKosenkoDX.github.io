@@ -7,24 +7,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  convert_to_pdf:
+    name: Build PDF
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install md-to-pdf
-        run: npm install -g md-to-pdf
-      
-      - name: Create files directory
-        run: mkdir -p files
-      
       - name: Convert MD to PDF
-        run: md-to-pdf cv.md --output files/cv.pdf
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: cv.md
+          output_dir: files
+          build_html: false
       
       - name: Commit PDF
         run: |
