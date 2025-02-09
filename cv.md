@@ -70,6 +70,11 @@ Developed complex CAD automation system for MEP (Mechanical, electrical, and plu
 
 Developed sample ASP.NET MVC application with authentication, utilizing DevExpress Dashboard control for data visualization.
 
+## Education
+
+### Bachelor's degree, Computational and Applied Mathematics @ Tula State University
+*Sep 2015 - Jul 2019 · Tula, Russia*
+
 ## Skills & Abilities
 Managerial:
 - Change management
