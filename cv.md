@@ -1,9 +1,19 @@
 # Anton Kosenko
 
+![Anton Kosenko](https://github.com/antonKosenkoDx.png)
+
+- Location: Yerevan, Armenia
+- Birth date: 19 April 1997
+
 ## Contacts
 
 - Email: me@antonkosenko.pro
 - LinkedIn: https://www.linkedin.com/in/anton-kosenko-8821bb181/
+- Telegram: https://t.me/antonkosenko
+
+## About
+
+I am an Engineering Manager who enjoys tackling complex problems with attention to detail. Solving business challenges motivates me every day, and I value the freedom to think creatively and work independently. I love people and enjoy helping them do their work effectively by removing obstacles, setting clear objectives, and providing individual motivation.
 
 ## Experience
 
@@ -59,3 +69,23 @@ Developed complex CAD automation system for MEP (Mechanical, electrical, and plu
 *Jul 2017 - Aug 2017 · Tula, Russia*
 
 Developed sample ASP.NET MVC application with authentication, utilizing DevExpress Dashboard control for data visualization.
+
+## Skills & Abilities
+Managerial:
+- Change management
+- Performance Appraisal
+- Process management & optimization
+- Project management
+- Employee motivation
+- Team building
+- Agile Software Development
+
+Technical
+- Primary stack: .NET/C#
+- Secondary stack: Java/Kotlin/Objective-C/Swift/JS/Python
+- Frameworks and platforms: WPF/WinForms/Xamarin.Forms/MAUI/Android/iOS
+- Misc: TeamCity/GitHub/GitLab/Azure Pipelines/Jira/Trello
+
+Languages:
+- Russian - Native
+- English - Proficient (B1-B2)
