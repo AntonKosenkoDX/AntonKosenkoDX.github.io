@@ -80,6 +80,7 @@ Managerial:
 - Change management
 - Performance Appraisal
 - Process management & optimization
+- Hiring, firing and onboarding
 - Project management
 - Employee motivation
 - Team building
