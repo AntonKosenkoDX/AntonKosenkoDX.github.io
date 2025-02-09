@@ -53,14 +53,10 @@ Key achievements:
 - Designed code-sharing architecture to migrate Xamarin.Forms controls to MAUI
 - Provided technical support to customers
 
-### Middle Software Developer @ KartsUp
-*Mar 2019 - May 2020 · Tula Region, Russia*
+### Software Developer @ KartsUp
+*Oct 2017 - May 2020 · Tula Region, Russia*
 
-Developed complex CAD automation system for MEP (Mechanical, electrical, and plumbing) design in large-scale building projects as Autodesk Revit add-in.
-
-### Software Programmer @ KartsUp
-*Oct 2017 - Mar 2019 · Tula, Russia*
-
+- Developed complex CAD automation system for MEP (Mechanical, electrical, and plumbing) design in large-scale building projects as Autodesk Revit add-in.
 - Developed Licensing & Distribution service using WPF and WCF
 - Contributed to cladding work automation in Autodesk Revit
 - Developed tools for Roder's tents structure design automation
