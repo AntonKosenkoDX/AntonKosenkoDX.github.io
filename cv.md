@@ -1,6 +1,6 @@
 # Anton Kosenko
 
-![Anton Kosenko](https://github.com/antonKosenkoDx.png)
+<img src="https://github.com/antonKosenkoDx.png" alt="Anton Kosenko" width="300"/>
 
 - Location: Yerevan, Armenia
 - Birth date: 19 April 1997
