@@ -89,12 +89,6 @@
                 </svg>
                 Yerevan, Armenia
             </p>
-            <p>
-                <svg class="icon" viewBox="0 0 24 24">
-                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/>
-                </svg>
-                Age: <span id="age"></span> years
-            </p>
         </div>
         <div class="contact-info">
             <h2>Contacts</h2>
@@ -137,21 +131,6 @@
     </div>
 
     <script>
-        function calculateAge(birthDate) {
-            const birth = new Date(birthDate);
-            const today = new Date();
-            let age = today.getFullYear() - birth.getFullYear();
-            const monthDiff = today.getMonth() - birth.getMonth();
-            
-            if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birth.getDate())) {
-                age--;
-            }
-            return age;
-        }
-
-        const birthDate = '1997-04-19';
-        document.getElementById('age').textContent = calculateAge(birthDate);
-
         // Add timestamp to prevent PDF caching
         document.getElementById('resume-link').href += Date.now();
     </script>
