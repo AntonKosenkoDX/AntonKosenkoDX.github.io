@@ -108,4 +108,4 @@ Technical
 
 Languages:
 - Russian - Native
-- English - Proficient (B1-B2)
+- English - Proficient (B2)
