@@ -1,7 +1,5 @@
 # Anton Kosenko
 
-<img src="https://github.com/antonKosenkoDx.png" alt="Anton Kosenko" width="300"/>
-
 - Location: Yerevan, Armenia
 
 ## Contacts
@@ -28,12 +26,19 @@ Key contributions:
 - Hired and onboarded manager for the MAUI Team, marking the company's first experience with managerial recruitment
 - Designed and maintained the tribe's strategy using Balanced Scorecard framework
 - Built a cross-functional management team to drive execution of the tribe's strategic goals
-
-Key achievements:
 - Reduced annual tribe maintenance costs by 20% through process optimizations
 - Transformed teams from Russian-speaking into multicultural, English-speaking teams
 - Pioneered international hiring by recruiting first non-Russian-speaking employees in Hungary, Romania, and Serbia
 - Maintained team performance and retained 100% of key talent throughout the transformation
+
+Responsibilities:
+- Defining tribe strategy, setting and updating goals, ensuri
+- ng their achievement.
+- Developing engineering managers, conducted reviews and mentorship.
+- Structuring the team, managing hiring and onboarding processes.
+- Monitoring technology trends, facilitating key technical decisions.
+- Implementing company-wide changes, reinforcing corporate values.
+- Optimizing processes, maintaining high performance standards, and addressing low productivity.
 
 ### MAUI Team Lead @ Developer Express, Inc.
 *Aug 2021 - Mar 2024 · Yerevan, Armenia*
