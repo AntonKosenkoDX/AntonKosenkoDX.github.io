@@ -1,13 +1,19 @@
-# Anton Kosenko
+<h1 align="center">Anton Kosenko</h1>
+<h3 align="center">Engineering Manager</h3>
 
-- Location: Yerevan, Armenia
+<p align="center">Location: Yerevan, Armenia</p>
 
-## Contacts
+<h1></h1>
 
-- Email: me@antonkosenko.pro
-- LinkedIn: https://www.linkedin.com/in/anton-kosenko-8821bb181/
-- Telegram: https://t.me/antonkosenko
-- Website: https://antonkosenko.pro
+<p align="center">
+<b>LinkedIn:</b> https://linkedin.com/in/antonkosenko 
+  &nbsp;&nbsp;&nbsp;
+<b>Telegram:</b> https://t.me/antonkosenko</span>
+  &nbsp;&nbsp;&nbsp;
+<b>Website:</b> https://antonkosenko.pro
+<p>
+
+<p align="center"><b>Email:</b> me@antonkosenko.pro</p>
 
 ## About
 
