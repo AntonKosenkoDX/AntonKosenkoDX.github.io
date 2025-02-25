@@ -32,8 +32,7 @@ Key contributions:
 - Maintained team performance and retained 100% of key talent throughout the transformation
 
 Responsibilities:
-- Defining tribe strategy, setting and updating goals, ensuri
-- ng their achievement.
+- Defining tribe strategy, setting and updating goals, ensuring their achievement.
 - Developing engineering managers, conducted reviews and mentorship.
 - Structuring the team, managing hiring and onboarding processes.
 - Monitoring technology trends, facilitating key technical decisions.
@@ -45,10 +44,18 @@ Responsibilities:
 
 Managed cross-functional team of 10-15 professionals.
 
-Key achievements:
+Key contributions:
 - Launched full-featured MAUI UI components suite with industry-leading quality, outperforming competitors
 - Boosted team productivity by 4x: Delivered double the output with 50% fewer developers via Scrum adoption, dedicated support roles, and performance tracking
 - Led the relocation of 13-person team from Russia to Armenia, achieving 70% retention rate (highest organization-wide)
+
+Responsibilities:
+- Collaborating with PM and team to develop the product roadmap and growth strategy.
+- Organizing team workflows by dynamically adjusting plans, ensuring timely delivery, validating quality, and communicating changes clearly.
+- Providing technical expertise in ideation, requirements formulation, and specification development while managing development processes according to standards.
+- Facilitating knowledge sharing through pair programming, collaborative problem-solving, and maintaining comprehensive documentation.
+- Conducting regular reviews and retrospectives, managing performance with timely interventions, and recognizing top performers.
+- Managing optimal team staffing and effective onboarding in alignment with budget and product lifecycle.
 
 ### Xamarin.Forms/MAUI Developer @ Developer Express, Inc.
 *May 2020 - Aug 2021*
