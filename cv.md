@@ -6,11 +6,11 @@
 <h1></h1>
 
 <p align="center">
-<b>LinkedIn:</b> https://linkedin.com/in/antonkosenko 
+<b>LinkedIn:</b>&nbsp;https://linkedin.com/in/antonkosenko 
   &nbsp;&nbsp;&nbsp;
-<b>Telegram:</b> https://t.me/antonkosenko</span>
+<b>Telegram:</b>&nbsp;https://t.me/antonkosenko</span>
   &nbsp;&nbsp;&nbsp;
-<b>Website:</b> https://antonkosenko.pro
+<b>Website:</b>&nbsp;https://antonkosenko.pro
 <p>
 
 <p align="center"><b>Email:</b> me@antonkosenko.pro</p>
