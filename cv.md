@@ -8,7 +8,7 @@
 <p align="center">
 &nbsp;<b>LinkedIn:</b>&nbsp;<a href="https://linkedin.com/in/antonkosenko">linkedin.com/in/antonkosenko</a>&nbsp;
 &nbsp;<b>Telegram:</b>&nbsp;<a href="https://t.me/antonkosenko">t.me/antonkosenko</a>&nbsp;
-&nbsp;<b>Website:</b>&nbsp;<a href="https://antonkosenko.pro">www.antonkosenko.pro</a>&nbsp;
+&nbsp;<b>Website:</b>&nbsp;<a href="https://antonkosenko.pro">antonkosenko.pro</a>&nbsp;
 <p>
 
 <p align="center"><b>Email:</b>&nbsp;<a href="mailto:me@antonkosenko.pro">me@antonkosenko.pro</a></p>
