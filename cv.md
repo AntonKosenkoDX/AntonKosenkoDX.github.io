@@ -91,11 +91,6 @@ Responsibilities:
 - Contributed to cladding work automation in Autodesk Revit
 - Developed tools for Roder's tents structure design automation
 
-### Engineer Intern @ Developer Express, Inc.
-*Jul 2017 - Aug 2017 · Tula, Russia*
-
-Developed sample ASP.NET MVC application with authentication, utilizing DevExpress Dashboard control for data visualization.
-
 ## Education
 
 ### Bachelor's degree, Computational and Applied Mathematics @ Tula State University
@@ -109,7 +104,6 @@ Managerial:
 - Hiring, firing and onboarding
 - Project management
 - Employee motivation
-- Team building
 - Agile Software Development
 
 Technical
