@@ -13,9 +13,13 @@
 
 <p align="center"><b>Email:</b>&nbsp;<a href="mailto:me@antonkosenko.pro">me@antonkosenko.pro</a></p>
 
-## About
+## About Me
 
-I am an Engineering Manager who enjoys tackling complex problems with attention to detail. Solving business challenges motivates me every day, and I value the freedom to think creatively and work independently. I love people and enjoy helping them do their work effectively by removing obstacles, setting clear objectives, and providing individual motivation.
+Engineering Manager with 8 years of experience in software development (.NET) and 4 years in engineering management. I believe in autonomy, high-quality standards, and continuous growth. I thrive in teams of professionals who are passionate about building strong products and constantly improving.
+
+My key strengths include dedication, attention to detail, and a strong commitment to product quality. I excel at building effective teams, creating an environment for productive work, and helping engineers grow.
+
+I am looking for opportunities to lead talented teams, scale development processes, and create technological solutions that bring real value.
 
 ## Experience
 
