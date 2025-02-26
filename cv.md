@@ -13,6 +13,16 @@
 
 <p align="center"><b>Email:</b>&nbsp;<a href="mailto:me@antonkosenko.pro">me@antonkosenko.pro</a></p>
 
+<h1></h1>
+
+<p align="center">
+  Contents: 
+  <a href="#about-me">About Me</a> - 
+  <a href="#experience">Experience</a> - 
+  <a href="#education">Education</a> - 
+  <a href="#skills">Skills</a>
+</p>
+
 ## About Me
 
 Engineering Manager with 8 years of experience in software development (.NET) and 4 years in engineering management. I believe in autonomy, high-quality standards, and continuous growth. I thrive in teams of professionals who are passionate about building strong products and constantly improving.
@@ -22,7 +32,6 @@ My key strengths include dedication, attention to detail, and a strong commitmen
 I am looking for opportunities to lead talented teams, scale development processes, and create technological solutions that bring real value.
 
 ## Experience
-*[Education](#education)*
 
 ### .NET UI (WinForms, WPF, MAUI) Department Lead @ Developer Express, Inc.
 *Mar 2024 - Present · Yerevan, Armenia*
@@ -92,7 +101,7 @@ Developed sample ASP.NET MVC application with authentication, utilizing DevExpre
 ### Bachelor's degree, Computational and Applied Mathematics @ Tula State University
 *Sep 2015 - Jul 2019 · Tula, Russia*
 
-## Skills & Abilities
+## Skills
 Managerial:
 - Change management
 - Performance Appraisal
