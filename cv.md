@@ -6,11 +6,9 @@
 <h1></h1>
 
 <p align="center">
-<b>LinkedIn:</b>&nbsp;https://linkedin.com/in/antonkosenko 
-  &nbsp;&nbsp;&nbsp;
-<b>Telegram:</b>&nbsp;https://t.me/antonkosenko</span>
-  &nbsp;&nbsp;&nbsp;
-<b>Website:</b>&nbsp;https://antonkosenko.pro
+&nbsp;<b>LinkedIn:</b>&nbsp;https://linkedin.com/in/antonkosenko&nbsp;
+&nbsp;<b>Telegram:</b>&nbsp;https://t.me/antonkosenko&nbsp;
+&nbsp;<b>Website:</b>&nbsp;https://antonkosenko.pro&nbsp;
 <p>
 
 <p align="center"><b>Email:</b> me@antonkosenko.pro</p>
