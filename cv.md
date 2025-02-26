@@ -22,6 +22,7 @@ My key strengths include dedication, attention to detail, and a strong commitmen
 I am looking for opportunities to lead talented teams, scale development processes, and create technological solutions that bring real value.
 
 ## Experience
+*[Education](#education)*
 
 ### .NET UI (WinForms, WPF, MAUI) Department Lead @ Developer Express, Inc.
 *Mar 2024 - Present · Yerevan, Armenia*
