@@ -33,7 +33,7 @@ I am looking for opportunities to lead talented teams, scale development process
 
 ## Experience
 
-### .NET UI (WinForms, WPF, MAUI) Department Lead @ Developer Express, Inc.
+### Head of Development (WinForms, WPF, MAUI) @ Developer Express, Inc.
 *Mar 2024 - Present · Yerevan, Armenia*
 
 Managed three distributed cross-functional R&D teams, totaling 40+ engineers (10–15 per team), driving innovation and strategic execution across multiple product lines.
@@ -57,7 +57,7 @@ Responsibilities:
 - Implementing company-wide changes, reinforcing corporate values.
 - Optimizing processes, maintaining high performance standards, and addressing low productivity.
 
-### MAUI Team Lead @ Developer Express, Inc.
+### Engineering Manager (MAUI) @ Developer Express, Inc.
 *Aug 2021 - Mar 2024 · Yerevan, Armenia*
 
 Managed cross-functional team of 10-15 professionals.
