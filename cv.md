@@ -25,11 +25,11 @@
 
 ## About Me
 
-Engineering Manager with 8 years of experience in software development (.NET) and 4 years in engineering management. I believe in autonomy, high-quality standards, and continuous growth. I thrive in teams of professionals who are passionate about building strong products and constantly improving.
+Engineering Manager with 8 years of hands-on experience in software development (.NET) and 4 years in engineering leadership. I specialize in building high-performing teams from the ground up, elevated existing teams' performance, and driving large-scale organizational and technical changes aligned with company strategy.
 
-My key strengths include dedication, attention to detail, and a strong commitment to product quality. I am good at building effective teams, creating an environment for productive work, and helping engineers grow.
+My key strengths include a deep commitment to product quality, strong attention to detail, and the ability to navigate teams through complex and high-pressure environments. I’ve consistently helped teams not only survive challenges but emerge stronger and more effective.
 
-I am looking for opportunities to lead talented teams, scale development processes, and create technological solutions that bring real value.
+I’m seeking opportunities to lead ambitious engineering teams, scale development processes, and deliver impactful technological solutions that drive real business value.
 
 ## Experience
 
