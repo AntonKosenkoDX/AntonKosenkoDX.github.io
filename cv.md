@@ -39,15 +39,15 @@ I’m seeking opportunities to lead ambitious engineering teams, scale developme
 Managed three distributed cross-functional R&D teams, totaling 40+ engineers (10–15 per team), driving innovation and strategic execution across multiple product lines.
 
 Key contributions:
-- Led the development and implementation of the tribe's first AI features across all product lines (WinForms, WPF, MAUI), including an LLM integration API, AI chat, and Smart Paste
-- Led non-AI feature development, such as a fully functional MAUI PDF Viewer, cross-platform templates, accessibility (A11Y) improvements
-- Hired and onboarded manager for the MAUI Team, marking the company's first experience with managerial recruitment
-- Designed and maintained the tribe's strategy using Balanced Scorecard framework
-- Built a cross-functional management team to drive execution of the tribe's strategic goals
-- Reduced annual tribe maintenance costs by 20% through process optimizations
-- Transformed teams from Russian-speaking into multicultural, English-speaking teams
-- Pioneered international hiring by recruiting first non-Russian-speaking employees in Hungary, Romania, and Serbia
-- Maintained team performance and retained 100% of key talent throughout the transformation
+- Led the development and implementation of the tribe's first AI features across all product lines (WinForms, WPF, MAUI), including an LLM integration API, AI chat, and Smart Paste.
+- Led non-AI feature development, such as a fully functional MAUI PDF Viewer, cross-platform templates, accessibility (A11Y) improvements.
+- Hired and onboarded manager for the MAUI Team, marking the company's first experience with managerial recruitment.
+- Designed and maintained the tribe's strategy using Balanced Scorecard framework.
+- Built a cross-functional management team to drive execution of the tribe's strategic goals.
+- Reduced annual tribe maintenance costs by 20% through process optimizations.
+- Transformed teams from Russian-speaking into multicultural, English-speaking teams.
+- Pioneered international hiring by recruiting first non-Russian-speaking employees in Hungary, Romania, and Serbia.
+- Maintained team performance and retained 100% of key talent throughout the transformation.
 
 Responsibilities:
 - Defining tribe strategy, setting and updating goals, ensuring their achievement.
@@ -63,14 +63,14 @@ Responsibilities:
 Managed cross-functional team of 10-15 professionals.
 
 Key contributions:
-- Launched full-featured MAUI UI components suite with industry-leading quality, outperforming competitors
-- Boosted team productivity by 4x: Delivered double the output with 50% fewer developers via Scrum adoption, dedicated support roles, and performance tracking
-- Led the relocation of 13-person team from Russia to Armenia, achieving 70% retention rate (highest organization-wide)
+- Launched full-featured MAUI UI components suite with industry-leading quality, outperforming competitors.
+- Boosted team productivity by 4x: Delivered double the output with 50% fewer developers via Scrum adoption, dedicated support roles, and performance tracking.
+- Led the relocation of 13-person team from Russia to Armenia, achieving 70% retention rate (highest organization-wide).
 
 Responsibilities:
 - Collaborating with PM and team to develop the product roadmap and growth strategy.
 - Organizing team workflows by dynamically adjusting plans, ensuring timely delivery, validating quality, and communicating changes clearly.
-- Providing technical expertise in ideation, requirements formulation, and specification development while managing development processes according to standards.
+- Providing technical expertise in gathering and analysing requirements, specification development while managing development processes according to standards.
 - Facilitating knowledge sharing through pair programming, collaborative problem-solving, and maintaining comprehensive documentation.
 - Conducting regular reviews and retrospectives, managing performance with timely interventions, and recognizing top performers.
 - Managing optimal team staffing and effective onboarding in alignment with budget and product lifecycle.
@@ -78,18 +78,17 @@ Responsibilities:
 ### Xamarin.Forms/MAUI Developer @ Developer Express, Inc.
 *May 2020 - Aug 2021*
 
-- Developed Xamarin.Forms and native (iOS & Android) controls (DataForm, Data Editors)
-- Improved QA workflows by enhancing unit, integration, and UI tests
-- Designed code-sharing architecture to migrate Xamarin.Forms controls to MAUI
-- Provided technical support to customers
+- Developed Xamarin.Forms and native (iOS & Android) UI controls (DataForm, Data Editors).
+- Improved QA workflows by enhancing unit, integration, and UI tests.
+- Designed code-sharing architecture to migrate Xamarin.Forms controls to MAUI.
 
 ### Software Developer @ KartsUp
 *Oct 2017 - May 2020 · Tula Region, Russia*
 
 - Developed complex CAD automation system for MEP (Mechanical, electrical, and plumbing) design in large-scale building projects as Autodesk Revit add-in.
-- Developed Licensing & Distribution service using WPF and WCF
-- Contributed to cladding work automation in Autodesk Revit
-- Developed tools for Roder's tents structure design automation
+- Developed Licensing & Distribution service using WPF and WCF.
+- Contributed to cladding work automation in Autodesk Revit.
+- Developed tools for Roder's tents structure design automation.
 
 ## Education
 
@@ -98,13 +97,13 @@ Responsibilities:
 
 ## Skills
 Managerial:
-- Change management
-- Performance Appraisal
+- Change management: Prosci ADKAR, Kotter 
+- Performance Appraisal: Performance Review, Personal Goals, PDP, PIP, Providing Feedback
+- Agile Software Development: Scrum, Kanban, XP
 - Process management & optimization
 - Hiring, firing and onboarding
 - Project management
 - Employee motivation
-- Agile Software Development
 
 Technical
 - Primary stack: .NET/C#
