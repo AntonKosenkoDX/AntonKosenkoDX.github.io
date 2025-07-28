@@ -42,11 +42,12 @@ Key contributions:
 - Led the development and implementation of the tribe's first AI features across all product lines (WinForms, WPF, MAUI), including an LLM integration API, AI chat, and Smart Paste.
 - Led non-AI feature development, such as a fully functional MAUI PDF Viewer, cross-platform templates, accessibility (A11Y) improvements.
 - Hired and onboarded manager for the MAUI Team, marking the company's first experience with managerial recruitment.
+- Actively participated in hiring and improving hiring and onboarding processes. Conducted over 100 interviews, hired or participated in the hiring of over 20 engineers.
+- Pioneered international hiring by recruiting first non-Russian-speaking employees in Hungary, Romania, and Serbia.
 - Designed and maintained the tribe's strategy using Balanced Scorecard framework.
 - Built a cross-functional management team to drive execution of the tribe's strategic goals.
 - Reduced annual tribe maintenance costs by 20% through process optimizations.
 - Transformed teams from Russian-speaking into multicultural, English-speaking teams.
-- Pioneered international hiring by recruiting first non-Russian-speaking employees in Hungary, Romania, and Serbia.
 - Maintained team performance and retained 100% of key talent throughout the transformation.
 
 Responsibilities:
@@ -96,20 +97,20 @@ Responsibilities:
 *Sep 2015 - Jul 2019 · Tula, Russia*
 
 ## Skills
+Technical
+- Main stack: .NET / C#
+- Secondary stack (Commercial use): Java, Kotlin, Objective-C, Swift, C++, JS, Python
+- Frameworks and platforms: WPF, MAUI, Xamarin.Forms, WinForms, Android, iOS
+- CI/CD: TeamCity, GitHub, GitLab, Azure Pipelines, Azure Cloud, Docker
+
 Managerial:
-- Change management: Prosci ADKAR, Kotter 
-- Performance Appraisal: Performance Review, Personal Goals, PDP, PIP, Providing Feedback
-- Agile Software Development: Scrum, Kanban, XP
+- Agile project management, Software Development Life Cycle (SDLC): Scrum, Kanban, XP, Waterfall
+- Performance Appraisal: Performance Review, Personal Goals, PDP, PIP, Continuous Feedback, 1:1
+- Change management: Prosci ADKAR, Kotter
 - Process management & optimization
 - Hiring, firing and onboarding
-- Project management
 - Employee motivation
-
-Technical
-- Primary stack: .NET/C#
-- Secondary stack: Java/Kotlin/Objective-C/Swift/JS/Python
-- Frameworks and platforms: WPF/WinForms/Xamarin.Forms/MAUI/Android/iOS
-- Misc: TeamCity/GitHub/GitLab/Azure Pipelines/Jira/Trello
+- Tools: Jira, Confluence, Trello
 
 Languages:
 - Russian - Native
